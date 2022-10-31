@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "프로젝트 산출물"
+date:   2022-10-31
+categories: Portfolio
+---
+프로젝트 산출물 및 동영상, PPT자료
+### 팀프로젝트 동영상
+[![KH정보교육원 자바응용 SW엔지니어링 양성과정 2팀 시연영상
+](http://img.youtube.com/vi/gPw5GUc_4LA/0.jpg)](https://youtu.be/gPw5GUc_4LA){:target="_blank"}
+
+클릭시 유튜브로 이동, 3분14초
+
+### 팀프로젝트 ppt
+![ppt이미지](/outputs/ppt.jpg?raw=true)
+[PPT다운로드](/outputs/2팀프로젝트산출물.pptx)
+
+### 팀프로젝트 구현소스
+[구현소스 저장소](https://github.com/parksu00/front_ma.git)
